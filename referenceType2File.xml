@@ -1,0 +1,3082 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>f6047466aa2a3ec43845a4d28bcbfeb8</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-03-22T23:59:28-06:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d20b4e03a55e92c46ba3930edf8850de</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-03-22T23:59:28-06:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2d9fe621c4a3a254f8b7cfc80b99acc9</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-03-22T23:59:28-06:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>88e38acff0b73d247b53678e2982517d</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-03-22T23:59:28-06:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d792d96e0e61ba1438fc390677e83ea0</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-03-22T23:59:28-06:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f05e59ad6f5dd1442bf98f01a3b93421</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-03-22T23:59:28-06:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>070e26aa44aeec34789a6dfbfdd76c23</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/OpenCVForUnityUtils.cs</fileName>
+    <timeStamp>2022-03-22T13:58:30-06:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.OpenCVForUnityUtils</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c27c4859b593fb4cb68de20c5cf67ed</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/ShowLicense.cs</fileName>
+    <timeStamp>2022-03-22T13:57:58-06:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.ShowLicense</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52e2e32e102e44abeb72209e7ce030c3</guid>
+    <fileName>Assets/KawaseBlur/KawaseBlur.cs</fileName>
+    <timeStamp>2020-06-08T06:08:42-06:00</timeStamp>
+    <typeFullName>
+      <string>KawaseBlur</string>
+      <string>KawaseBlur+KawaseBlurSettings</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6bb85a5f68880904195650d4a775b5e4</guid>
+    <fileName>Assets/Scripts/ComicP1Conditions.cs</fileName>
+    <timeStamp>2023-03-09T18:36:20-07:00</timeStamp>
+    <typeFullName>
+      <string>ComicP1Conditions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2859fc32b3f7bd1448b71c5a08cd99f2</guid>
+    <fileName>Assets/Scripts/FrameUtility.cs</fileName>
+    <timeStamp>2023-04-01T01:59:39.142625-06:00</timeStamp>
+    <typeFullName>
+      <string>FrameUtility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2e2cc16631588d04885f37712ec6dd7d</guid>
+    <fileName>Assets/Scripts/HeadPose.cs</fileName>
+    <timeStamp>2023-04-01T03:08:01.5588288-06:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.HeadPose</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>17dc2ef171b1d684eb2f4dc373dc8aa7</guid>
+    <fileName>Assets/Scripts/NextPageUtility.cs</fileName>
+    <timeStamp>2023-03-28T19:06:10-06:00</timeStamp>
+    <typeFullName>
+      <string>NextPageUtility</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34662f3cffc3c68488199b032daf7b45</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Editor/DlibFaceLandmarkDetectorBuildPreprocessor.cs</fileName>
+    <timeStamp>2023-02-19T06:35:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a784d01e3d4b767409b96240c8e8c860</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Editor/DlibFaceLandmarkDetectorIOSBuildPostprocessor.cs</fileName>
+    <timeStamp>2023-02-19T06:35:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b3d689b3f037084aba6e252dd76c16b</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Editor/DlibFaceLandmarkDetectorMenuItem.cs</fileName>
+    <timeStamp>2023-02-19T06:35:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f23e5e446e703fa4b8ae49935bced2fe</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Editor/DlibFaceLandmarkDetectorResetDebugMode.cs</fileName>
+    <timeStamp>2023-02-19T06:37:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f490634625317c545b5e7d48aac913af</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Examples/DlibFaceLandmarkDetectorExample.cs</fileName>
+    <timeStamp>2023-02-19T06:37:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d1d59e7be9d1244da331cf04b8ee610</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Examples/FpsMonitor.cs</fileName>
+    <timeStamp>2023-02-19T06:35:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>65e9ea194865bdd44beecbde6ded985f</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Examples/ShowSystemInfo.cs</fileName>
+    <timeStamp>2023-02-19T06:35:32-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b1ea028be20a4ca458be426a69ac21df</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Examples/TouchController.cs</fileName>
+    <timeStamp>2023-02-19T06:35:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>10eb22d8dd0cfac4ea773ad0b9705c80</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Scripts/DisposableDlibObject.cs</fileName>
+    <timeStamp>2023-02-19T06:35:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>30684d56a24253c4d9b8619c1e5c5c9c</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Scripts/DisposableObject.cs</fileName>
+    <timeStamp>2023-02-19T06:35:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6d05e18c01946f747b71ff8b57a5e12f</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Scripts/DlibException.cs</fileName>
+    <timeStamp>2023-02-19T06:35:34-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3c27801ee70843644ad4409c8012771f</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Scripts/FaceLandmarkDetector.cs</fileName>
+    <timeStamp>2023-02-19T06:35:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ebea53bce02ea4043847829a6c03e72c</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Scripts/Utils.cs</fileName>
+    <timeStamp>2023-02-19T06:37:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>344fa434edac0df43ad218102326a4da</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/ARHeadExample/ARHeadVideoCaptureExample.cs</fileName>
+    <timeStamp>2022-12-02T04:34:30-07:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.ARHeadVideoCaptureExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a95e140603ae33d48b8c8b0da8d483a8</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/ARHeadExample/ARHeadWebCamTextureExample.cs</fileName>
+    <timeStamp>2022-12-02T04:36:12-07:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.ARHeadWebCamTextureExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5b8d3fb701d2275469fc7dcc5b0a6b25</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/FrameOptimizationExample/FrameOptimizationExample.cs</fileName>
+    <timeStamp>2022-12-02T04:37:58-07:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.FrameOptimizationExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a31a1a63a18eae54f951e24b272f1e1d</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/NoiseFilterExample/NoiseFilterVideoCaptureExample.cs</fileName>
+    <timeStamp>2022-12-02T04:38:46-07:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.NoiseFilterVideoCaptureExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc3fe609230c2574ca6ea37fb24697a5</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/NoiseFilterExample/NoiseFilterWebCamTextureExample.cs</fileName>
+    <timeStamp>2022-12-02T04:39:44-07:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.NoiseFilterWebCamTextureExample</string>
+      <string>DlibFaceLandmarkDetectorExample.NoiseFilterWebCamTextureExample+FilterMode</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bac11c89abccaa642aa669c7408063d8</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/Texture2DToMatExample/Texture2DToMatExample.cs</fileName>
+    <timeStamp>2022-12-02T04:40:20-07:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.Texture2DToMatExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9fa9f5ba5be0608449875ca86e0fd7a1</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/VideoCaptureExample/VideoCaptureExample.cs</fileName>
+    <timeStamp>2022-12-02T04:41:08-07:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.VideoCaptureExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>383f9da14ed1bdd4f8c696b8c4b75561</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/WebCamTextureToMatHelperExample/WebCamTextureToMatHelperExample.cs</fileName>
+    <timeStamp>2022-12-02T04:41:50-07:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.WebCamTextureToMatHelperExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ab1982ff62ed0f44d9c8a70cc55521f1</guid>
+    <fileName>Assets/OpenCVForUnity/Editor/OpenCVForUnityBuildPreprocessor.cs</fileName>
+    <timeStamp>2023-03-05T05:01:38-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1468bec8532ec6d488cebe62022b2b67</guid>
+    <fileName>Assets/OpenCVForUnity/Editor/OpenCVForUnityIOSBuildPostprocessor.cs</fileName>
+    <timeStamp>2023-03-05T04:54:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>94571a6b79d0cf14ba69f68be8bb2852</guid>
+    <fileName>Assets/OpenCVForUnity/Editor/OpenCVForUnityMenuItem.cs</fileName>
+    <timeStamp>2023-03-05T05:00:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2b5b6eabd7cb07c4c96feab726e82902</guid>
+    <fileName>Assets/OpenCVForUnity/Editor/OpenCVForUnityResetDebugMode.cs</fileName>
+    <timeStamp>2023-03-05T04:55:38-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>03ffc138d8c85b946b9bae82bf2c68c7</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/FpsMonitor.cs</fileName>
+    <timeStamp>2023-03-05T04:53:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d9c762b2524789429e919b92999cd0c</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/OpenCVForUnityExample.cs</fileName>
+    <timeStamp>2023-03-05T05:01:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9edeb721da1dd3c49a1bd82aa7dfa2fc</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ShowLicense.cs</fileName>
+    <timeStamp>2023-03-05T05:01:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>143a40e6a2bf638438ec2e149c8f376d</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ShowSystemInfo.cs</fileName>
+    <timeStamp>2023-03-05T04:54:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c0d0dbdff39d04340b992d63c1413714</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/TouchController.cs</fileName>
+    <timeStamp>2023-03-05T05:02:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f226c6469ea044642854c50823f82d5c</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Editor/EditorWindow/DlibFaceLandmarkDetectorProjectSettings.cs</fileName>
+    <timeStamp>2023-02-19T06:37:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e0cee6a991ba28e478da7896d194e616</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Editor/EditorWindow/DlibFaceLandmarkDetectorSetupToolsWindow.cs</fileName>
+    <timeStamp>2023-02-19T06:37:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8de5477032d436744a3dda7902509084</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Editor/EditorWindow/DlibFaceLandmarkDetectorSetupToolsWindowStartup.cs</fileName>
+    <timeStamp>2023-02-19T06:35:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>029a69d2775e26c4d947b9106bd1c039</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Examples/BenchmarkExample/BenchmarkExample.cs</fileName>
+    <timeStamp>2023-02-19T06:35:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a59befc045462d34d817f0b9148067c0</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Examples/CatDetectionExample/CatDetectionExample.cs</fileName>
+    <timeStamp>2023-02-19T06:35:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4d3f767ecb624f4bbc2e5a49c48fd0b</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Examples/Texture2DExample/Texture2DExample.cs</fileName>
+    <timeStamp>2023-02-19T06:37:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e15358a2c07735e4a961c98ec541c903</guid>
+    <fileName>Assets/DlibFaceLandmarkDetector/Examples/WebCamTextureExample/WebCamTextureExample.cs</fileName>
+    <timeStamp>2023-02-19T06:37:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c7681beef1b814c4aa6ad66833ad434b</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/NoiseFilterExample/NoiseFilter/KFPointsFilter.cs</fileName>
+    <timeStamp>2019-09-18T02:18:12-06:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.KFPointsFilter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>714742db5737d6c49b2b9c7d31d1ce27</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/NoiseFilterExample/NoiseFilter/LowPassPointsFilter.cs</fileName>
+    <timeStamp>2019-09-18T02:18:26-06:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.LowPassPointsFilter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a0852a40944ebb4fb13482305850174</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/NoiseFilterExample/NoiseFilter/OFPointsFilter.cs</fileName>
+    <timeStamp>2019-09-18T02:18:42-06:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.OFPointsFilter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f813007fd62470549af1c8c4b9a6b08c</guid>
+    <fileName>Assets/DlibFaceLandmarkDetectorWithOpenCVExample/NoiseFilterExample/NoiseFilter/PointsFilterBase.cs</fileName>
+    <timeStamp>2019-09-18T02:18:58-06:00</timeStamp>
+    <typeFullName>
+      <string>DlibFaceLandmarkDetectorExample.PointsFilterBase</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c48c19db5628f934ab56a398c3688343</guid>
+    <fileName>Assets/OpenCVForUnity/Editor/EditorWindow/OpenCVForUnityExampleAssetsDownloaderWindow.cs</fileName>
+    <timeStamp>2023-03-05T05:02:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad4ba8da00ca3294ba9b2c7b5a228f75</guid>
+    <fileName>Assets/OpenCVForUnity/Editor/EditorWindow/OpenCVForUnityProjectSettings.cs</fileName>
+    <timeStamp>2023-03-05T05:01:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b459929b49c442e41ba982684ee05a26</guid>
+    <fileName>Assets/OpenCVForUnity/Editor/EditorWindow/OpenCVForUnitySetupToolsWindow.cs</fileName>
+    <timeStamp>2023-03-05T05:01:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>87ebbb0e7a896c846b99a4e077731161</guid>
+    <fileName>Assets/OpenCVForUnity/Editor/EditorWindow/OpenCVForUnitySetupToolsWindowStartup.cs</fileName>
+    <timeStamp>2023-03-05T05:00:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dcedfa794b6f5c04cab8a0b65ce5d5b5</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/DisposableObject.cs</fileName>
+    <timeStamp>2023-03-05T05:03:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f85ed1fb95ea8cb4a9cbc149ba6405b1</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/DisposableOpenCVObject.cs</fileName>
+    <timeStamp>2023-03-05T05:03:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f970ea55f9f84bf79b05dab180b8c125</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01.cs</fileName>
+    <timeStamp>2018-03-28T14:02:22-06:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark01</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8ef7be1c625941f7ba8ed7cc71718c0d</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark01_UGUI.cs</fileName>
+    <timeStamp>2018-03-28T14:02:22-06:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark01_UGUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8538afcddc14efbb5d9e94b7ae50197</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark02.cs</fileName>
+    <timeStamp>2021-02-15T22:53:46-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark02</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a73109742c8d47ac822895a473300c29</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark03.cs</fileName>
+    <timeStamp>2021-02-15T22:53:22-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark03</string>
+      <string>TMPro.Examples.Benchmark03+BenchmarkType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dc20866c0d5e413ab7559440e15333ae</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/Benchmark04.cs</fileName>
+    <timeStamp>2017-02-24T17:26:54-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.Benchmark04</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2d687537154440a3913a9a3c7977978c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/CameraController.cs</fileName>
+    <timeStamp>2019-04-13T02:56:28-06:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.CameraController</string>
+      <string>TMPro.Examples.CameraController+CameraModes</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>53d91f98a2664f5cb9af11de72ac54ec</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ChatController.cs</fileName>
+    <timeStamp>2021-02-15T22:55:06-07:00</timeStamp>
+    <typeFullName>
+      <string>ChatController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac1eb05af6d391b4eb0f4c070a99f1d0</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/DropdownSample.cs</fileName>
+    <timeStamp>2019-04-24T14:55:44-06:00</timeStamp>
+    <typeFullName>
+      <string>DropdownSample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4b6f99e8bc54541bbd149b014ff441c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs</fileName>
+    <timeStamp>2017-05-16T17:13:54-06:00</timeStamp>
+    <typeFullName>
+      <string>EnvMapAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4f19c7f94c794c5097d8bd11e39c750d</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ObjectSpin.cs</fileName>
+    <timeStamp>2017-02-24T17:27:46-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.ObjectSpin</string>
+      <string>TMPro.Examples.ObjectSpin+MotionType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2787a46a4dc848c1b4b7b9307b614bfd</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/ShaderPropAnimator.cs</fileName>
+    <timeStamp>2017-02-24T17:27:56-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.ShaderPropAnimator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9eff140b25d64601aabc6ba32245d099</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs</fileName>
+    <timeStamp>2021-02-15T22:55:20-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.SimpleScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d412675cfb3441efa3bf8dcd9b7624dc</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SkewTextExample.cs</fileName>
+    <timeStamp>2017-02-24T17:28:16-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.SkewTextExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e32c266ee6204b21a427753cb0694c81</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs</fileName>
+    <timeStamp>2017-02-24T17:28:32-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TeleType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43bcd35a1c0c40ccb6d472893fe2093f</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextConsoleSimulator.cs</fileName>
+    <timeStamp>2017-11-28T17:21:12-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextConsoleSimulator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4d4c76e63944cba8c7d00f56334b98c</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs</fileName>
+    <timeStamp>2021-02-15T22:55:48-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextMeshProFloatingText</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>76c11bbcfddf44e0ba17d6c2751c8d84</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshSpawner.cs</fileName>
+    <timeStamp>2017-02-24T17:29:06-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TextMeshSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c3c1afeda5e545e0b19add5373896d2e</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs</fileName>
+    <timeStamp>2018-03-28T14:02:22-06:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMPro_InstructionOverlay</string>
+      <string>TMPro.Examples.TMPro_InstructionOverlay+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1a7eb92a01ed499a987bde9def05fbce</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs</fileName>
+    <timeStamp>2019-12-17T13:34:36-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_DigitValidator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f2c5b59b6874405865e2616e4ec276a</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_ExampleScript_01.cs</fileName>
+    <timeStamp>2017-02-24T17:29:26-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_ExampleScript_01</string>
+      <string>TMPro.Examples.TMP_ExampleScript_01+objectType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>686ec78b56aa445795335fbadafcfaa4</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs</fileName>
+    <timeStamp>2019-12-12T17:19:56-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_FrameRateCounter</string>
+      <string>TMPro.Examples.TMP_FrameRateCounter+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>83680ab1a69f4102ac67d1459fe76e1f</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs</fileName>
+    <timeStamp>2017-12-15T17:28:48-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_PhoneNumberValidator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d736ce056cf444ca96e424f4d9c42b76</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs</fileName>
+    <timeStamp>2020-01-22T17:29:10-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextEventCheck</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1312ae25639a4bae8e25ae223209cc50</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs</fileName>
+    <timeStamp>2021-02-15T22:56:04-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.TMP_TextEventHandler</string>
+      <string>TMPro.TMP_TextEventHandler+CharacterSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+SpriteSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+WordSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+LineSelectionEvent</string>
+      <string>TMPro.TMP_TextEventHandler+LinkSelectionEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>21256c5b62f346f18640dad779911e20</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs</fileName>
+    <timeStamp>2021-02-15T22:56:18-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextInfoDebugTool</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>103e0a6a1d404693b9fb1a5173e0e979</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs</fileName>
+    <timeStamp>2019-04-16T16:34:52-06:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextSelector_A</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a05dcd8be7ec4ccbb35c26219884aa37</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs</fileName>
+    <timeStamp>2020-01-22T17:18:40-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_TextSelector_B</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>24b0dc2d1d494adbbec1f4db26b4cf83</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_UiFrameRateCounter.cs</fileName>
+    <timeStamp>2019-01-30T01:14:02-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.TMP_UiFrameRateCounter</string>
+      <string>TMPro.Examples.TMP_UiFrameRateCounter+FpsCounterAnchorPositions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>91b8ba3d52e041fab2d0e0f169855539</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexColorCycler.cs</fileName>
+    <timeStamp>2018-10-02T15:59:00-06:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexColorCycler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2ed57967c52645d390a89dcf8f61ba73</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexJitter.cs</fileName>
+    <timeStamp>2019-12-06T13:21:54-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexJitter</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7cfa58e417a46ea8889989684c2522e</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeA.cs</fileName>
+    <timeStamp>2017-02-24T17:30:58-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexShakeA</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4e0d9ccee5f4950be8979268c9014e0</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexShakeB.cs</fileName>
+    <timeStamp>2017-02-24T17:31:08-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexShakeB</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>52ec835d14bd486f900952b77698b7eb</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/VertexZoom.cs</fileName>
+    <timeStamp>2017-02-24T17:31:16-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.VertexZoom</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>790744c462254b7ba8038e6ed28b3db2</guid>
+    <fileName>Assets/TextMesh Pro/Examples &amp; Extras/Scripts/WarpTextExample.cs</fileName>
+    <timeStamp>2017-02-24T17:31:24-07:00</timeStamp>
+    <typeFullName>
+      <string>TMPro.Examples.WarpTextExample</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3caf7839fe734e04c82c5460ef39f81f</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/AlphaBlendingExample/AlphaBlendingExample.cs</fileName>
+    <timeStamp>2023-03-05T04:56:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f7dc48313aa9da54bbe6768272502c29</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/ComicFilterExample/ComicFilter.cs</fileName>
+    <timeStamp>2023-03-05T05:03:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>183c3208b623d8847b46e3991bee71f6</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/ComicFilterExample/ComicFilterExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7842bd4c802bcbe41afe4f475fdc6400</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/CountFingersExample/ColorBlobDetector.cs</fileName>
+    <timeStamp>2023-03-05T04:59:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>045bb439fc09063408144f6dbad4237c</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/CountFingersExample/CountFingersExample.cs</fileName>
+    <timeStamp>2023-03-05T04:53:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a64f61ccff4e4c459db8ec6ca284a6f</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/DocumentScannerExample/DocumentScannerExample.cs</fileName>
+    <timeStamp>2023-03-05T04:56:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e578f6cf6805cd45ae800a987910310</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/KeyFrameGreenScreenExample/KeyFrameGreenScreenExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2d2f6bb20142cf045b328b1e28f96fdd</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/MatToTextureInRenderThreadExample/MatToTextureInRenderThreadExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>85dd5eb44b4e86044ba013a6fed21b72</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/MultiObjectTrackingBasedOnColorExample/ColorObject.cs</fileName>
+    <timeStamp>2023-03-05T05:00:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bb42f52848b21b74183983ad8c03a733</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/MultiObjectTrackingBasedOnColorExample/MultiObjectTrackingBasedOnColorExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b4dfd61e58fb364e95268089df0a72c</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/PhysicalGreenScreenExample/PhysicalGreenScreenExample.cs</fileName>
+    <timeStamp>2023-03-05T05:00:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>92d8c74c7d44267449aeb1fd7b0f7929</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Advanced/PolygonFilterExample/PolygonFilterExample.cs</fileName>
+    <timeStamp>2023-03-05T05:00:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bef15ca357507164c9bdeeb406f8da08</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Basic/MatBasicProcessingExample/MatBasicProcessingExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:12-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c6c8ac944c791a040bfcbc06d87db85e</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Basic/Texture2DToMatExample/Texture2DToMatExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f22b001c1fb150445a47147d222d5a53</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Basic/Utils_GetFilePathExample/Utils_GetFilePathExample.cs</fileName>
+    <timeStamp>2023-03-05T05:03:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>72fe78ad6fcd62f45871a239bfe444f6</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Basic/WebCamTextureToMatExample/WebCamTextureToMatExample.cs</fileName>
+    <timeStamp>2023-03-05T04:59:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>253ffd364f66d7d40be48490ea969d82</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/Basic/WebCamTextureToMatHelperExample/WebCamTextureToMatHelperExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e773800e56741924b8a05f8204f9ded6</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/DnnObjectDetectionExample.cs</fileName>
+    <timeStamp>2023-03-05T05:03:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1b267043c7498e3498dbd64608225c98</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/DnnObjectDetectionWebCamTextureExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5cef721e5040610489f318a33759ec63</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/calib3d/Calib3d.cs</fileName>
+    <timeStamp>2023-03-05T04:58:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>794ef33a2adf1584a8ee5fdd76469345</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/calib3d/StereoBM.cs</fileName>
+    <timeStamp>2023-03-05T04:59:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5ecc46d1721023041a7b7683b44b7ed0</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/calib3d/StereoMatcher.cs</fileName>
+    <timeStamp>2023-03-05T04:58:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9bc15870895dc7a40bbe479a52ee89e9</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/calib3d/StereoSGBM.cs</fileName>
+    <timeStamp>2023-03-05T05:01:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>035c72dd3b8f72447a907e77e60b374c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/calib3d/UsacParams.cs</fileName>
+    <timeStamp>2023-03-05T04:53:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>129c9cb0e3f2fcd4a89b7bd53a58a211</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/Algorithm.cs</fileName>
+    <timeStamp>2023-03-05T04:54:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8f37255127f5b5f47b85dd848a9939c9</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/Core.cs</fileName>
+    <timeStamp>2023-03-05T05:00:38-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>05a02bb551d20684c9aa916195f9c225</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/CvException.cs</fileName>
+    <timeStamp>2023-03-05T04:54:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d7a4c501100210e42982ce1545b83f6b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/CvType.cs</fileName>
+    <timeStamp>2023-03-05T05:03:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fcbc3f0662909bb4f9c8cb0c97a93fd5</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/DMatch.cs</fileName>
+    <timeStamp>2023-03-05T05:04:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d6111472f54f49142aafdd6dd6a04603</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/KeyPoint.cs</fileName>
+    <timeStamp>2023-03-05T05:02:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ff8785440a1c1914bb9f53b88c9023a5</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/Mat.cs</fileName>
+    <timeStamp>2023-03-05T05:04:12-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b9cc9ea63774aa44e8266b0e85a6c255</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfByte.cs</fileName>
+    <timeStamp>2023-03-05T05:02:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2ccc184f4f6690742bddb923b9500395</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfDMatch.cs</fileName>
+    <timeStamp>2023-03-05T04:55:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3eb82ec923f10254889e489dde47605c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfDouble.cs</fileName>
+    <timeStamp>2023-03-05T04:56:12-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>20fd094c4f72864458c2b836f8f93919</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfFloat.cs</fileName>
+    <timeStamp>2023-03-05T04:55:12-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f18120f83f0c4684aa3cf8c859f18f17</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfFloat4.cs</fileName>
+    <timeStamp>2023-03-05T05:03:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d99ecd8f1ea89a4ab5c3e19e699d725</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfFloat6.cs</fileName>
+    <timeStamp>2023-03-05T05:01:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eceb664c5d722734c8aa78e13299c84c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfInt.cs</fileName>
+    <timeStamp>2023-03-05T05:03:36-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d642b577b5661d849af7534b693afaba</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfInt4.cs</fileName>
+    <timeStamp>2023-03-05T05:02:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9f265ad1450c466479dbe6c1d5e67ad3</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfKeyPoint.cs</fileName>
+    <timeStamp>2023-03-05T05:01:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2ff8486c2ce1f624c99ef0fdba7b214a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfPoint.cs</fileName>
+    <timeStamp>2023-03-05T04:55:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dfedc0624f741ff4e9d138f6083a086d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfPoint2f.cs</fileName>
+    <timeStamp>2023-03-05T05:03:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>174eaa9a8c25396468fb2faad994f7ea</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfPoint3.cs</fileName>
+    <timeStamp>2023-03-05T04:54:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>50cb36303614f864d8c3a8455b55cef9</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfPoint3f.cs</fileName>
+    <timeStamp>2023-03-05T04:57:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2ab1c8939e82ca54c9109151ecb9eb22</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfRect.cs</fileName>
+    <timeStamp>2023-03-05T04:55:36-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>940a5d34e25f6fc43870f74c90fec0ff</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfRect2d.cs</fileName>
+    <timeStamp>2023-03-05T05:00:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e0a8f9bc4094a24f8677e04069fe2fd</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/MatOfRotatedRect.cs</fileName>
+    <timeStamp>2023-03-05T04:54:34-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a5c9e1cd8823b2c4ead91c4ee7c059a8</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/Point.cs</fileName>
+    <timeStamp>2023-03-05T05:01:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>67e76099a41131a458935d940abf46d4</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/Point3.cs</fileName>
+    <timeStamp>2023-03-05T04:58:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3ae8f24b90f936d4494ef723000bbe0e</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/Range.cs</fileName>
+    <timeStamp>2023-03-05T04:56:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ac6b13e99772ca544b9bc5ec3d9d5fff</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/Rect.cs</fileName>
+    <timeStamp>2023-03-05T05:01:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c6b291903fcbb7549a8b77558e88b782</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/Rect2d.cs</fileName>
+    <timeStamp>2023-03-05T05:02:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>123c6c82faadaf04c9bb87cb7d4d0beb</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/RotatedRect.cs</fileName>
+    <timeStamp>2023-03-05T04:54:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6cdcb452e2091e444ade0006d6df0b74</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/Scalar.cs</fileName>
+    <timeStamp>2023-03-05T04:59:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>10c28bde0d9597c4e87908b0079f0867</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/Size.cs</fileName>
+    <timeStamp>2023-03-05T04:54:38-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bd82e81ae344fb044b2af5a3b1e117ec</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/TermCriteria.cs</fileName>
+    <timeStamp>2023-03-05T05:02:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>010fd84b4610c4d4f853dd54549c9343</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/core/TickMeter.cs</fileName>
+    <timeStamp>2023-03-05T04:53:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>478bbe63522e6d8469105270d487f899</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/ClassificationModel.cs</fileName>
+    <timeStamp>2023-03-05T04:57:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2b2dae2f1963b13459fbb9f2485263a8</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/DetectionModel.cs</fileName>
+    <timeStamp>2023-03-05T04:55:38-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>27e28be4c83047b43b120c015018dcec</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/DictValue.cs</fileName>
+    <timeStamp>2023-03-05T04:55:32-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1f8ad7ead3fe701459487248b30f89ed</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/Dnn.cs</fileName>
+    <timeStamp>2023-03-05T04:55:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1291f7e979397df4f8c0bb679a280c1f</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/KeypointsModel.cs</fileName>
+    <timeStamp>2023-03-05T04:54:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>118ec4ebd98af8341ac5bfa8965e99f9</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/Layer.cs</fileName>
+    <timeStamp>2023-03-05T04:54:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad3544f681d1e7c41834196106ce40b5</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/Model.cs</fileName>
+    <timeStamp>2023-03-05T05:01:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>71a3a94bc6905a94f9cd74ba57b6637e</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/Net.cs</fileName>
+    <timeStamp>2023-03-05T04:59:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>49c24a05c1b3d3f4abe27435a1d64231</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/SegmentationModel.cs</fileName>
+    <timeStamp>2023-03-05T04:57:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>86f773953c9aa8241bccd7506aedb5fe</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/TextDetectionModel.cs</fileName>
+    <timeStamp>2023-03-05T05:00:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c25c5ef1b7f8f34893df1c252056910</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/TextDetectionModel_DB.cs</fileName>
+    <timeStamp>2023-03-05T04:55:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d1b3e19222549594891a8a3681696c91</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/TextDetectionModel_EAST.cs</fileName>
+    <timeStamp>2023-03-05T05:02:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3c66206a66f48ec4eb5c4ccdd38100a5</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/dnn/TextRecognitionModel.cs</fileName>
+    <timeStamp>2023-03-05T04:56:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0c369decc966193469cf5875fa41e3ad</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/AffineFeature.cs</fileName>
+    <timeStamp>2023-03-05T04:54:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b565ef35d627acd4d8ca438fcd3e7111</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/AgastFeatureDetector.cs</fileName>
+    <timeStamp>2023-03-05T05:01:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1fbf8069856fa174a924cf92079abfb4</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/AKAZE.cs</fileName>
+    <timeStamp>2023-03-05T04:55:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>be8fbbc033263dc48b33262714a16077</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/BFMatcher.cs</fileName>
+    <timeStamp>2023-03-05T05:02:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>99649158883bff04aa2858defdd3b365</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/BOWImgDescriptorExtractor.cs</fileName>
+    <timeStamp>2023-03-05T05:00:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc625009464389b4ba5c6cedd1a5d431</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/BOWKMeansTrainer.cs</fileName>
+    <timeStamp>2023-03-05T05:02:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b2ffc267864d14419c9ca9f0ff7932c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/BOWTrainer.cs</fileName>
+    <timeStamp>2023-03-05T05:00:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d435aea6beffc9248858bb90b60513fa</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/BRISK.cs</fileName>
+    <timeStamp>2023-03-05T05:02:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c387fe77654231b4f96185e1d72993ae</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/DescriptorMatcher.cs</fileName>
+    <timeStamp>2023-03-05T05:02:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74b833529f3c4924380a01bf25046d70</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/FastFeatureDetector.cs</fileName>
+    <timeStamp>2023-03-05T04:59:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>40f52dfe89203a74792e4eeff4e9f6fb</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/Feature2D.cs</fileName>
+    <timeStamp>2023-03-05T04:56:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4bb1fdca521904a4592dfd0582cef6ce</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/Features2d.cs</fileName>
+    <timeStamp>2023-03-05T04:57:32-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e315d5c931da0cf42ae1caab03c81fe4</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/FlannBasedMatcher.cs</fileName>
+    <timeStamp>2023-03-05T05:03:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ac054bb3098796649b98cb5d3d6f8f24</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/GFTTDetector.cs</fileName>
+    <timeStamp>2023-03-05T05:01:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>49e34d24cd9f50a45a7482c93e5ee58a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/KAZE.cs</fileName>
+    <timeStamp>2023-03-05T04:57:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aef55368bbf0f4840845198f635fabbd</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/MSER.cs</fileName>
+    <timeStamp>2023-03-05T05:01:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>043483752f16fed449d5cda2e542d4ac</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/ORB.cs</fileName>
+    <timeStamp>2023-03-05T04:53:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2a3d7ee53e61a0f46bf483d2adb1cd5a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/SIFT.cs</fileName>
+    <timeStamp>2023-03-05T04:55:36-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>97ca4912decf955489289c9770b65555</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/SimpleBlobDetector.cs</fileName>
+    <timeStamp>2023-03-05T05:00:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>771e4824a7ec1324d9a7e415cca615d3</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/features2d/SimpleBlobDetector_Params.cs</fileName>
+    <timeStamp>2023-03-05T04:59:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>53e54a00c26f39544b1d9fb8b0ea784a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/imgcodecs/Imgcodecs.cs</fileName>
+    <timeStamp>2023-03-05T04:58:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2efc0f48f73e7c84b9357b4470e6c003</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/imgproc/CLAHE.cs</fileName>
+    <timeStamp>2023-03-05T04:55:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6eb5b68d5dfd7c3478cf5a8b858422d1</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/imgproc/GeneralizedHough.cs</fileName>
+    <timeStamp>2023-03-05T04:59:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>27bf80f1813c01145a9cc23c1d6e718f</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/imgproc/GeneralizedHoughBallard.cs</fileName>
+    <timeStamp>2023-03-05T04:55:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3800bc3f51b043341ac30554829222ae</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/imgproc/GeneralizedHoughGuil.cs</fileName>
+    <timeStamp>2023-03-05T04:56:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b5acf8df517e37f47a9abed1e7826887</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/imgproc/Imgproc.cs</fileName>
+    <timeStamp>2023-03-05T05:01:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>78f5344a2faeb374985dfbcf48e023d1</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/imgproc/IntelligentScissorsMB.cs</fileName>
+    <timeStamp>2023-03-05T04:59:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>450d56f224b042645a503c731069967d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/imgproc/LineSegmentDetector.cs</fileName>
+    <timeStamp>2023-03-05T04:56:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74778f6d4c143d047b359fee50bc8ade</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/imgproc/Moments.cs</fileName>
+    <timeStamp>2023-03-05T04:59:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7112fe462fa4e24fb20a8a8b3670c22</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/imgproc/Subdiv2D.cs</fileName>
+    <timeStamp>2023-03-05T05:01:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>090136e91a96c784eb17d95a92c694a1</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/ANN_MLP.cs</fileName>
+    <timeStamp>2023-03-05T04:54:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bbfa349f33a58a44fb7a5c69c67fc9c8</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/Boost.cs</fileName>
+    <timeStamp>2023-03-05T05:02:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9156547227a057a48817c6d0b892cb98</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/DTrees.cs</fileName>
+    <timeStamp>2023-03-05T05:00:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2635c5ca524739a43bd8e89956030c1b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/EM.cs</fileName>
+    <timeStamp>2023-03-05T04:55:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4c89b2fa6c4b04429af41539f449901</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/KNearest.cs</fileName>
+    <timeStamp>2023-03-05T05:03:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a7afdf258ecab124f834239f4e28f66a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/LogisticRegression.cs</fileName>
+    <timeStamp>2023-03-05T05:01:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9714e9bd9d715844dbf4cb1d4b0877e4</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/Ml.cs</fileName>
+    <timeStamp>2023-03-05T05:00:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4f443201bca73204ebc4b2d7b2046300</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/NormalBayesClassifier.cs</fileName>
+    <timeStamp>2023-03-05T04:57:38-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd5a69010e2189e4e956f8fba580f54c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/ParamGrid.cs</fileName>
+    <timeStamp>2023-03-05T05:04:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f67ab6c9b9120894f9ca7d0426468cea</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/RTrees.cs</fileName>
+    <timeStamp>2023-03-05T05:03:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>446b686696bb4e64b821457afce2d9ea</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/StatModel.cs</fileName>
+    <timeStamp>2023-03-05T04:56:32-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>22e668b34cf7b9c4caf1152098e776bb</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/SVM.cs</fileName>
+    <timeStamp>2023-03-05T04:55:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fe964379b57e89a498b1546e54249da3</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/SVMSGD.cs</fileName>
+    <timeStamp>2023-03-05T05:04:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>de6d8f56d2da0df42859c8d310f638fb</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/ml/TrainData.cs</fileName>
+    <timeStamp>2023-03-05T05:03:12-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aab7dcaa74ffd5f488677b72410c85a7</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/ArucoDetector.cs</fileName>
+    <timeStamp>2023-03-05T05:01:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1df7d52747c13214dafd1c86e8a1419c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/BaseCascadeClassifier.cs</fileName>
+    <timeStamp>2023-03-05T04:55:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e02e281e5cc8db44287a7a6befa4cdf7</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/Board.cs</fileName>
+    <timeStamp>2023-03-05T05:03:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d2c76883dc7c7a54bb6d83a51bed9cfc</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/CascadeClassifier.cs</fileName>
+    <timeStamp>2023-03-05T05:02:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68ea277df8740f74ca0e86ddb587f5a4</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/CharucoBoard.cs</fileName>
+    <timeStamp>2023-03-05T04:59:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>90af9fc59e37ecc40961c1c0e954cb57</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/CharucoDetector.cs</fileName>
+    <timeStamp>2023-03-05T05:00:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d14850d8aa612914d9ef0dbfe7169d92</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/CharucoParameters.cs</fileName>
+    <timeStamp>2023-03-05T05:02:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7aef5e9e4f67b0842b8770b378253b38</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/DetectorParameters.cs</fileName>
+    <timeStamp>2023-03-05T04:59:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>55569cf458e2fe64daf198e9eb1964e3</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/Dictionary.cs</fileName>
+    <timeStamp>2023-03-05T04:58:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>adfaa7fe57b4e0342a7d09dd22c8552f</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/FaceDetectorYN.cs</fileName>
+    <timeStamp>2023-03-05T05:01:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f00cdc5630cc2c2479ec8bf6bfa5e76b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/FaceRecognizerSF.cs</fileName>
+    <timeStamp>2023-03-05T05:03:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>158133c31833f454788000346772fb57</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/GridBoard.cs</fileName>
+    <timeStamp>2023-03-05T04:54:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ec69c6c8e42fab84596e5d0f42402e25</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/HOGDescriptor.cs</fileName>
+    <timeStamp>2023-03-05T05:03:36-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a4b19ed8ea50f0e478ec28d0c83820dc</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/Objdetect.cs</fileName>
+    <timeStamp>2023-03-05T05:01:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>004b13dabcaf58a43b13d6cacbb7357c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/QRCodeDetector.cs</fileName>
+    <timeStamp>2023-03-05T04:53:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f9f832d3bdf742544b000f8cfba59d89</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/QRCodeEncoder.cs</fileName>
+    <timeStamp>2023-03-05T05:03:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>beb563943a653234d9b11d080e89351d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/QRCodeEncoder_Params.cs</fileName>
+    <timeStamp>2023-03-05T05:02:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad30deb069440c049a71ad0e3ee350ca</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/objdetect/RefineParameters.cs</fileName>
+    <timeStamp>2023-03-05T05:01:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>452d8b1040378dd40a88fb0925ba6b29</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/AlignExposures.cs</fileName>
+    <timeStamp>2023-03-05T04:56:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>000bc933c855c6b4da51ba8378a482d5</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/AlignMTB.cs</fileName>
+    <timeStamp>2023-03-05T04:53:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f502299eae703074fad6a21f5b3a0492</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/CalibrateCRF.cs</fileName>
+    <timeStamp>2023-03-05T05:03:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4872d69f12a5eda469280cba1551c891</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/CalibrateDebevec.cs</fileName>
+    <timeStamp>2023-03-05T04:57:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a7f4a43c643c0ee40905b7290243e664</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/CalibrateRobertson.cs</fileName>
+    <timeStamp>2023-03-05T05:01:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e1d9ea3b2ae741f4e87c14173c712b2b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/MergeDebevec.cs</fileName>
+    <timeStamp>2023-03-05T05:03:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7c042c0c0009a654a94129ac6c59c320</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/MergeExposures.cs</fileName>
+    <timeStamp>2023-03-05T05:00:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e8199a627d05a24ba171fd649b6e2c2</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/MergeMertens.cs</fileName>
+    <timeStamp>2023-03-05T04:54:34-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>869818b23a4792145b08134c484c3e42</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/MergeRobertson.cs</fileName>
+    <timeStamp>2023-03-05T05:00:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>072db73a0f88caa4496534d2356e7ac2</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/Photo.cs</fileName>
+    <timeStamp>2023-03-05T04:54:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dbc6d28b273b1f7428f9a29deee85c33</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/Tonemap.cs</fileName>
+    <timeStamp>2023-03-05T05:03:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9bf4587e52ab59b4fb5db03c5cdd6e70</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/TonemapDrago.cs</fileName>
+    <timeStamp>2023-03-05T05:01:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0a0be563ef1c9da4abd76035175ae2a4</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/TonemapMantiuk.cs</fileName>
+    <timeStamp>2023-03-05T04:54:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>95562019f21d7124fa75596584fcbf31</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/photo/TonemapReinhard.cs</fileName>
+    <timeStamp>2023-03-05T05:00:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>10e0eca411b66e1479ed62e0cad5c468</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/unity/ARUtils.cs</fileName>
+    <timeStamp>2023-03-05T04:54:38-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>374d31ca3fc645a48839166cf831e208</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/unity/Utils.cs</fileName>
+    <timeStamp>2023-03-05T04:56:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>570d69ca10f75404a8b29f7385fe9a91</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/utils/Converters.cs</fileName>
+    <timeStamp>2023-03-05T04:58:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>667cc9e1f59b1894cb559ea2369dfa65</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/utils/DnnConverters.cs</fileName>
+    <timeStamp>2023-03-05T04:58:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>24e2e1d21d475d5478a84dbd9e774971</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/utils/MatIndexer.cs</fileName>
+    <timeStamp>2023-03-05T04:55:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>594168f2be759364d98d9a6897695e45</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/utils/MatUtils.cs</fileName>
+    <timeStamp>2023-03-05T04:58:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>300e65edee5c4f64fba70232e927b126</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/BackgroundSubtractor.cs</fileName>
+    <timeStamp>2023-03-05T04:55:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6e401cf1c4b5a8646aa0970857da8b0a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/BackgroundSubtractorKNN.cs</fileName>
+    <timeStamp>2023-03-05T04:59:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>27e2385d64dedbf4181b0c6e6249b991</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/BackgroundSubtractorMOG2.cs</fileName>
+    <timeStamp>2023-03-05T04:55:32-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d12ead953e5711d4aa729cf0e21b89cd</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/DenseOpticalFlow.cs</fileName>
+    <timeStamp>2023-03-05T05:02:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c119cd162b711684ba5f7d58a2e8df3e</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/DISOpticalFlow.cs</fileName>
+    <timeStamp>2023-03-05T05:02:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cfc694d9a3620cb4baa4d1638c7d747b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/FarnebackOpticalFlow.cs</fileName>
+    <timeStamp>2023-03-05T05:02:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3e6180cf4d6a60745baf079be29e269e</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/KalmanFilter.cs</fileName>
+    <timeStamp>2023-03-05T04:56:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>11d1df0db1c5cca4bbbe2294b7628aab</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/SparseOpticalFlow.cs</fileName>
+    <timeStamp>2023-03-05T04:54:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>216c628309079c14192bd16bdd64362d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/SparsePyrLKOpticalFlow.cs</fileName>
+    <timeStamp>2023-03-05T04:55:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef7e7482100617a479e4b43fad65193b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/Tracker.cs</fileName>
+    <timeStamp>2023-03-05T05:03:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f7631f6daa8d7df4fb6fc7ce7eff5adc</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/TrackerDaSiamRPN.cs</fileName>
+    <timeStamp>2023-03-05T05:03:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1d6a6bf648d936f49ba3ed1907617bba</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/TrackerDaSiamRPN_Params.cs</fileName>
+    <timeStamp>2023-03-05T04:55:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6bd9836d54fe48f47941eec1f7c7223a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/TrackerGOTURN.cs</fileName>
+    <timeStamp>2023-03-05T04:59:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>689036b8931f83c40aab0feea0cb4f61</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/TrackerGOTURN_Params.cs</fileName>
+    <timeStamp>2023-03-05T04:59:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d72c001554be83549b71c0e5ccbcb701</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/TrackerMIL.cs</fileName>
+    <timeStamp>2023-03-05T05:02:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>80b5830aaa4f72f47af21137d970f914</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/TrackerMIL_Params.cs</fileName>
+    <timeStamp>2023-03-05T05:00:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eb5d04f1667d556458aec9b8d43ba632</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/TrackerNano.cs</fileName>
+    <timeStamp>2023-03-05T05:03:34-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2deb90b6e45ffd247a9e3e4f8c060e57</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/TrackerNano_Params.cs</fileName>
+    <timeStamp>2023-03-05T04:55:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6eee65bea885a814fab34551f0b14737</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/VariationalRefinement.cs</fileName>
+    <timeStamp>2023-03-05T04:59:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>347dcfd398f022b4c8cfde7ac44415ee</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/video/Video.cs</fileName>
+    <timeStamp>2023-03-05T04:55:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>384e155f47b78914c9c033312d1121e8</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/videoio/VideoCapture.cs</fileName>
+    <timeStamp>2023-03-05T04:56:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b65988f470fd68d489e0caf4fad516ae</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/videoio/Videoio.cs</fileName>
+    <timeStamp>2023-03-05T05:01:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f7070037ce2d13547baadea25652fee1</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/videoio/VideoWriter.cs</fileName>
+    <timeStamp>2023-03-05T05:03:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>082d5d7dc9b777f42bb2f38f032a6f6f</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/aruco/Aruco.cs</fileName>
+    <timeStamp>2023-03-05T04:54:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2a0235e1195c0ad4e93620058b73a2ee</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/aruco/EstimateParameters.cs</fileName>
+    <timeStamp>2023-03-05T04:55:36-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7017f7885a452a74ba94e923695fde75</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/barcode/Barcode.cs</fileName>
+    <timeStamp>2023-03-05T04:59:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b1daaaeb70660cd428bfa1a059518511</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/barcode/BarcodeDetector.cs</fileName>
+    <timeStamp>2023-03-05T05:01:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>38cba9fa4c152b24ab3162d8d64dea6b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bgsegm/BackgroundSubtractorCNT.cs</fileName>
+    <timeStamp>2023-03-05T04:56:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>afea3f920f0220a44b5b6264c2d74f80</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bgsegm/BackgroundSubtractorGMG.cs</fileName>
+    <timeStamp>2023-03-05T05:01:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1946fe586da79b44bbf3dc872a0165b0</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bgsegm/BackgroundSubtractorGSOC.cs</fileName>
+    <timeStamp>2023-03-05T04:55:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>419abc3ebbd5ad14cb00cf1e70f441ce</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bgsegm/BackgroundSubtractorLSBP.cs</fileName>
+    <timeStamp>2023-03-05T04:56:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d24a903ea9b80dc4e8fb511a7cdd20c6</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bgsegm/BackgroundSubtractorLSBPDesc.cs</fileName>
+    <timeStamp>2023-03-05T05:02:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>546b79cd5fec09549bd5f074a0ff2286</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bgsegm/BackgroundSubtractorMOG.cs</fileName>
+    <timeStamp>2023-03-05T04:58:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9ae60c5114e9d0346a4abc5f93b8ef41</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bgsegm/Bgsegm.cs</fileName>
+    <timeStamp>2023-03-05T05:01:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ff7101ab5d8246649b2e0071bb51324f</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bgsegm/SyntheticSequenceGenerator.cs</fileName>
+    <timeStamp>2023-03-05T05:04:12-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3504b0446900c4f1daf7b450513c472d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bioinspired/Bioinspired.cs</fileName>
+    <timeStamp>2023-03-05T04:55:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a3be117d5907e42abb20cbd03871f735</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bioinspired/Retina.cs</fileName>
+    <timeStamp>2023-03-05T05:01:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5cf07bc457c2d4867a6cb021fce57872</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bioinspired/RetinaFastToneMapping.cs</fileName>
+    <timeStamp>2023-03-05T04:58:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fde4cee89c11b4bccb7c320d140c2341</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/bioinspired/TransientAreasSegmentationModule.cs</fileName>
+    <timeStamp>2023-03-05T05:04:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b8220e12f4923424fa8c821b69a6c1d1</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/BasicFaceRecognizer.cs</fileName>
+    <timeStamp>2023-03-05T05:02:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ea9ae86eb6e124748b07dc3f4728d188</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/BIF.cs</fileName>
+    <timeStamp>2023-03-05T05:03:32-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7276f09274ac1454c94a242ae6e2096c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/EigenFaceRecognizer.cs</fileName>
+    <timeStamp>2023-03-05T04:59:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1785e13c75116a94fadb7d20213da522</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/Face.cs</fileName>
+    <timeStamp>2023-03-05T04:54:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>02d311a0f842fb94fbaf3d8e7005298d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/Facemark.cs</fileName>
+    <timeStamp>2023-03-05T04:53:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9ba7714f4397e0942be410b3e6be4be6</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/FacemarkAAM.cs</fileName>
+    <timeStamp>2023-03-05T05:01:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>378e67d0b4db84848a2624d71ba83d1c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/FacemarkKazemi.cs</fileName>
+    <timeStamp>2023-03-05T04:56:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>23f686389aaba044e89c9c9854906351</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/FacemarkLBF.cs</fileName>
+    <timeStamp>2023-03-05T04:55:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>20477f029d75fce4898b963e70d2bd6a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/FacemarkTrain.cs</fileName>
+    <timeStamp>2023-03-05T04:55:12-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c6964f91fadd61a41bf910c6f8c3b7c4</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/FaceRecognizer.cs</fileName>
+    <timeStamp>2023-03-05T05:02:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>594812b15ef07514ea6772da36ab946d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/FisherFaceRecognizer.cs</fileName>
+    <timeStamp>2023-03-05T04:58:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e9da67b94dfcbeb49ad03a4a4428a199</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/LBPHFaceRecognizer.cs</fileName>
+    <timeStamp>2023-03-05T05:03:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>418207011b3482244b3c6b6805e657b0</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/MACE.cs</fileName>
+    <timeStamp>2023-03-05T04:56:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d896c8615a44ab84e96fad97ee449273</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/PredictCollector.cs</fileName>
+    <timeStamp>2023-03-05T05:03:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>33e9c6be86a8d3649af965526c6ab336</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/face/StandardCollector.cs</fileName>
+    <timeStamp>2023-03-05T04:55:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2f98dea722ae3394f999ad0ebfdf4db0</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/img_hash/AverageHash.cs</fileName>
+    <timeStamp>2023-03-05T04:55:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>336f680c7901a794c959bb19af15284b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/img_hash/BlockMeanHash.cs</fileName>
+    <timeStamp>2023-03-05T04:55:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fb6c14a44aba3b149ae2f78b4074dec8</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/img_hash/ColorMomentHash.cs</fileName>
+    <timeStamp>2023-03-05T05:04:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>60e045098af99be4485a2b663e5e952a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/img_hash/ImgHashBase.cs</fileName>
+    <timeStamp>2023-03-05T04:58:32-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a38c22521b08f4468dd03ecf4ec314b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/img_hash/Img_hash.cs</fileName>
+    <timeStamp>2023-03-05T04:58:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dcd48c2b8a6b7a441a9e49e0dd41ce0d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/img_hash/MarrHildrethHash.cs</fileName>
+    <timeStamp>2023-03-05T05:03:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>157cc5ae9cc420449b28a12c816780b5</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/img_hash/PHash.cs</fileName>
+    <timeStamp>2023-03-05T04:54:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>01841d6c245a76e4a881a4a237d39a9c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/img_hash/RadialVarianceHash.cs</fileName>
+    <timeStamp>2023-03-05T04:53:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4278b65570bf428419aa367d77f1051f</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/phase_unwrapping/HistogramPhaseUnwrapping.cs</fileName>
+    <timeStamp>2023-03-05T04:56:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>970bdf24c067350498f342061f2bdbc2</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/phase_unwrapping/HistogramPhaseUnwrapping_Params.cs</fileName>
+    <timeStamp>2023-03-05T05:00:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c182306ef3c01cc45b9f5258576c2d0d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/phase_unwrapping/PhaseUnwrapping.cs</fileName>
+    <timeStamp>2023-03-05T05:02:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6cbeb06db69e2ab428596e24490b40bd</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/phase_unwrapping/Phase_unwrapping.cs</fileName>
+    <timeStamp>2023-03-05T04:59:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9be8b0deb5962404d88cdff9f0c771ba</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/plot/Plot.cs</fileName>
+    <timeStamp>2023-03-05T05:01:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5d79df26aba908d42b971b00c9c9d55b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/plot/Plot2d.cs</fileName>
+    <timeStamp>2023-03-05T04:58:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>89f25630d20585e4db60a580f12f0dca</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/structured_light/GrayCodePattern.cs</fileName>
+    <timeStamp>2023-03-05T05:00:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ea4cd519051885946bdafc4a8ec43435</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/structured_light/SinusoidalPattern.cs</fileName>
+    <timeStamp>2023-03-05T05:03:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>69dfb0de2b37d0b49b45ad740c25339d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/structured_light/SinusoidalPattern_Params.cs</fileName>
+    <timeStamp>2023-03-05T04:59:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>61ab38cefd09f1a468dd9e4aca7955bc</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/structured_light/StructuredLightPattern.cs</fileName>
+    <timeStamp>2023-03-05T04:58:34-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>56db0c967a328184bbf8f88df23294ca</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/structured_light/Structured_light.cs</fileName>
+    <timeStamp>2023-03-05T04:58:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>87a0ec0371e87204693dd742e0fb29e4</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/BaseOCR.cs</fileName>
+    <timeStamp>2023-03-05T05:00:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9210e1690ca041642ac66ec8d2e7c2f7</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/ERFilter.cs</fileName>
+    <timeStamp>2023-03-05T05:00:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>33ffd3cfca52da24cba5edd31df5450f</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/ERFilter_Callback.cs</fileName>
+    <timeStamp>2023-03-05T04:55:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c36fbb14609acbc4b847b1bf76af3597</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/OCRBeamSearchDecoder.cs</fileName>
+    <timeStamp>2023-03-05T05:02:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>14a29704d9d996a488042266fddcad65</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/OCRBeamSearchDecoder_ClassifierCallback.cs</fileName>
+    <timeStamp>2023-03-05T04:54:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>efce0099e90cae145aa342007f719b85</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/OCRHMMDecoder.cs</fileName>
+    <timeStamp>2023-03-05T05:03:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5913ddb82d12b414b9e8466bc97a54cd</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/OCRHMMDecoder_ClassifierCallback.cs</fileName>
+    <timeStamp>2023-03-05T04:58:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52d55be16b0febd46929d81be20dc0c3</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/OCRTesseract.cs</fileName>
+    <timeStamp>2023-03-05T04:57:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8f15b75919f7daf46a71d0076ad23a2a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/Text.cs</fileName>
+    <timeStamp>2023-03-05T05:00:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>abf7de920ed7b4345b21a84291d63781</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/TextDetector.cs</fileName>
+    <timeStamp>2023-03-05T05:01:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>18a3df8413e83a34f9521081edb30aa5</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/text/TextDetectorCNN.cs</fileName>
+    <timeStamp>2023-03-05T04:54:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7875bec579d4d9a4c9d416a51ae6989a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/legacy_MultiTracker.cs</fileName>
+    <timeStamp>2023-03-05T04:59:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ba0f5ff628f2144cb3eea77711f64da</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/legacy_Tracker.cs</fileName>
+    <timeStamp>2023-03-05T04:59:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f34936b8c3d110548b3c78eb365b4a9f</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/legacy_TrackerBoosting.cs</fileName>
+    <timeStamp>2023-03-05T05:03:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4a2dd37f47afd54491390ead67f961e</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/legacy_TrackerCSRT.cs</fileName>
+    <timeStamp>2023-03-05T05:03:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e36492cf0f38504da6aab849ad26b19</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/legacy_TrackerKCF.cs</fileName>
+    <timeStamp>2023-03-05T04:55:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7cb537d9cfc8d544e952b207c0168fa7</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/legacy_TrackerMedianFlow.cs</fileName>
+    <timeStamp>2023-03-05T05:00:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0312ae8650aff34e8cb1638f2b93a38</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/legacy_TrackerMIL.cs</fileName>
+    <timeStamp>2023-03-05T05:01:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0da460a835e420e4dbbfc841643e6cee</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/legacy_TrackerMOSSE.cs</fileName>
+    <timeStamp>2023-03-05T04:54:32-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c8d5d9002165fb643b40b19ad3b5f6e8</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/legacy_TrackerTLD.cs</fileName>
+    <timeStamp>2023-03-05T05:02:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc172019928419a48b5daae2d25594b2</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/TrackerCSRT.cs</fileName>
+    <timeStamp>2023-03-05T05:02:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5df243b397e476a4c818ea19966b93b7</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/TrackerCSRT_Params.cs</fileName>
+    <timeStamp>2023-03-05T04:58:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aa54cdd54143c8d4388b8ef1880880a3</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/TrackerKCF.cs</fileName>
+    <timeStamp>2023-03-05T05:01:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f3ea955a870f11644bab80eaba15233d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/TrackerKCF_Params.cs</fileName>
+    <timeStamp>2023-03-05T05:03:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>776c5351293aaa143b14ba7c7dd3ed6a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/tracking/Tracking.cs</fileName>
+    <timeStamp>2023-03-05T04:59:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>847801eecca4d4d4ca3f41a022309076</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/wechat_qrcode/WeChatQRCode.cs</fileName>
+    <timeStamp>2023-03-05T05:00:12-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ab921d607dad9f84b9f31590b0a15931</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/wechat_qrcode/Wechat_qrcode.cs</fileName>
+    <timeStamp>2023-03-05T05:01:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d728667af4ff8a34a85f06c3495bcfac</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/AffineFeature2D.cs</fileName>
+    <timeStamp>2023-03-05T05:02:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f764d9df502f06b45b4835e2ef777c28</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/BEBLID.cs</fileName>
+    <timeStamp>2023-03-05T05:03:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>440822de070dbc24db8b705b6f1d88fa</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/BoostDesc.cs</fileName>
+    <timeStamp>2023-03-05T04:56:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>92dc6ef1e84a7a34ba8f8e7206a2a4a4</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/BriefDescriptorExtractor.cs</fileName>
+    <timeStamp>2023-03-05T05:00:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>987f6b4ea463b244381db26ca4dfa549</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/DAISY.cs</fileName>
+    <timeStamp>2023-03-05T05:00:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c88ed11537408dc489c8f5b49816c1b5</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/FREAK.cs</fileName>
+    <timeStamp>2023-03-05T05:02:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8314127ee5ee7c4f8329466dde26e79</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/HarrisLaplaceFeatureDetector.cs</fileName>
+    <timeStamp>2023-03-05T05:03:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5135690283d63ec469c312c8f18280d6</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/LATCH.cs</fileName>
+    <timeStamp>2023-03-05T04:57:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>83bb372cb9ded39439d407e2692e9f5b</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/LUCID.cs</fileName>
+    <timeStamp>2023-03-05T05:00:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>17ff664aa218d54438075e78f4044b8a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/MSDDetector.cs</fileName>
+    <timeStamp>2023-03-05T04:54:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5497629889c37014dbd25bc82b1ef086</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/PCTSignatures.cs</fileName>
+    <timeStamp>2023-03-05T04:58:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0a3150c6a15215f4e89342792f9b2706</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/PCTSignaturesSQFD.cs</fileName>
+    <timeStamp>2023-03-05T04:54:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e46af368da324204ab7dbb9f3b4b26c9</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/StarDetector.cs</fileName>
+    <timeStamp>2023-03-05T05:03:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a0c6ca7209ecce9459e3c0276b276c56</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/SURF.cs</fileName>
+    <timeStamp>2023-03-05T05:01:12-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>16741a3c1c0a8be4a8270a87b17e83ec</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/SURF_CUDA.cs</fileName>
+    <timeStamp>2023-03-05T04:54:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ab944bdfbecaf764cb2e2d9f96b02709</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/TBMR.cs</fileName>
+    <timeStamp>2023-03-05T05:01:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ae8126791f973184393d081409be72dc</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/TEBLID.cs</fileName>
+    <timeStamp>2023-03-05T05:01:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>786cd5d884ebdef4e929dd3e704ecca0</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/VGG.cs</fileName>
+    <timeStamp>2023-03-05T04:59:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52638455891217248adbb4bf5427948d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xfeatures2d/Xfeatures2d.cs</fileName>
+    <timeStamp>2023-03-05T04:57:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d24d4a1853ca8424a9faeb6440d8a7d9</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/AdaptiveManifoldFilter.cs</fileName>
+    <timeStamp>2023-03-05T05:02:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b2fb2408e000ec4c9e83378e8f8b2fb</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/ContourFitting.cs</fileName>
+    <timeStamp>2023-03-05T04:57:32-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1cec838438d99d3419ff821f637e49c6</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/DisparityFilter.cs</fileName>
+    <timeStamp>2023-03-05T04:55:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>278f99b4a95d6604c85816240c4ff617</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/DisparityWLSFilter.cs</fileName>
+    <timeStamp>2023-03-05T04:55:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e40ce95a8fcf554498edc0dc13f511eb</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/DTFilter.cs</fileName>
+    <timeStamp>2023-03-05T05:03:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>890934965dbaa9b42b1a4cd3e497ed48</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/EdgeAwareInterpolator.cs</fileName>
+    <timeStamp>2023-03-05T05:00:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e659a8ccfa7be0d44897ce5cb5d951b7</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/EdgeBoxes.cs</fileName>
+    <timeStamp>2023-03-05T05:03:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5345a9f1e6a8a5447b3399627383fc18</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/EdgeDrawing.cs</fileName>
+    <timeStamp>2023-03-05T04:57:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35022d43fff05d44fae30c5385449954</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/EdgeDrawing_Params.cs</fileName>
+    <timeStamp>2023-03-05T04:55:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>34d3d89004880604d87ac10be2d935f2</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/FastBilateralSolverFilter.cs</fileName>
+    <timeStamp>2023-03-05T04:55:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dddf9241a145409429e8d8e87069e71f</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/FastGlobalSmootherFilter.cs</fileName>
+    <timeStamp>2023-03-05T05:03:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>423a682d4b67571429361b93cce059c7</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/FastLineDetector.cs</fileName>
+    <timeStamp>2023-03-05T04:56:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ae5c962c20fd66844aabaa19ef6ab782</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/GraphSegmentation.cs</fileName>
+    <timeStamp>2023-03-05T05:01:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>18981f410dfd19247ab93986a92f5550</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/GuidedFilter.cs</fileName>
+    <timeStamp>2023-03-05T04:54:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cb5d5043386012f499ac89282498d61c</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/RFFeatureGetter.cs</fileName>
+    <timeStamp>2023-03-05T05:02:34-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7b455dc0d03d81f4dad55ae80541f739</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/RICInterpolator.cs</fileName>
+    <timeStamp>2023-03-05T04:59:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>569b2911a6e7e444ab1e35fb01c869a5</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/RidgeDetectionFilter.cs</fileName>
+    <timeStamp>2023-03-05T04:58:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>87fdbc909a4f08a419ebed1bae4c9030</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/ScanSegment.cs</fileName>
+    <timeStamp>2023-03-05T05:00:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>30fc72fbd94822d4ea85e45cdb28fb5d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SelectiveSearchSegmentation.cs</fileName>
+    <timeStamp>2023-03-05T04:55:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>66a50ce8fde77ce42b6668793e1f21df</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SelectiveSearchSegmentationStrategy.cs</fileName>
+    <timeStamp>2023-03-05T04:58:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef9665d86c6dd0e4588eaf3f56ff7084</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SelectiveSearchSegmentationStrategyColor.cs</fileName>
+    <timeStamp>2023-03-05T05:03:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ee34a261f539de449bddf775449197be</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SelectiveSearchSegmentationStrategyFill.cs</fileName>
+    <timeStamp>2023-03-05T05:03:38-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6c447bc86e81a6c4086c48b402ea4095</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SelectiveSearchSegmentationStrategyMultiple.cs</fileName>
+    <timeStamp>2023-03-05T04:59:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9bbd8c43d59c35148a51de0fa5d370e9</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SelectiveSearchSegmentationStrategySize.cs</fileName>
+    <timeStamp>2023-03-05T05:01:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>66188bd4f5af08847821d78ff44e551e</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SelectiveSearchSegmentationStrategyTexture.cs</fileName>
+    <timeStamp>2023-03-05T04:58:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2346a627c7172834298ba41671c04dd2</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SparseMatchInterpolator.cs</fileName>
+    <timeStamp>2023-03-05T04:55:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4f93b47f27a82504d85671c94872db90</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/StructuredEdgeDetection.cs</fileName>
+    <timeStamp>2023-03-05T04:57:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ceefc48020c223c41b56d485e12f1f1a</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SuperpixelLSC.cs</fileName>
+    <timeStamp>2023-03-05T05:02:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4ea5a284998ea6845aee551f05665bca</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SuperpixelSEEDS.cs</fileName>
+    <timeStamp>2023-03-05T04:57:38-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c9c14fad390d4ac40b060053f205e279</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/SuperpixelSLIC.cs</fileName>
+    <timeStamp>2023-03-05T05:02:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2f4d64fd41ea32c4493f172f3ec91b9d</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/ximgproc/Ximgproc.cs</fileName>
+    <timeStamp>2023-03-05T04:55:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>21c90560ea437fe46a10630c3d524e2e</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xphoto/GrayworldWB.cs</fileName>
+    <timeStamp>2023-03-05T04:55:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>13313bd99cf7fc84382f095a64ee8542</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xphoto/LearningBasedWB.cs</fileName>
+    <timeStamp>2023-03-05T04:54:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cf0d30976ec5a73469e539bac65e5f58</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xphoto/SimpleWB.cs</fileName>
+    <timeStamp>2023-03-05T05:02:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a168d664217ccc44ca0947ba82cbcae3</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xphoto/TonemapDurand.cs</fileName>
+    <timeStamp>2023-03-05T05:01:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>876c36058cd81214dafacab2aec17e64</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xphoto/WhiteBalancer.cs</fileName>
+    <timeStamp>2023-03-05T05:00:18-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>75eebd2e49afb634486306e7a10d5fd6</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv_contrib/xphoto/Xphoto.cs</fileName>
+    <timeStamp>2023-03-05T04:59:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0aefaa67ad997944bba5e7a35f57c82d</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ContribModules/barcode/BarcodeDetectorExample/BarcodeDetectorExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:30-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c44e987845da72b4fa100b22667e01e9</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ContribModules/barcode/BarcodeDetectorExample/BarcodeDetectorWebCamExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2ab13a44371e5df4886f6f34a918746c</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ContribModules/bgsegm/BackgroundSubtractorExample/BackgroundSubtractorExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:36-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>380cf44108067e945926e33bd3e7c82b</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ContribModules/face/FaceMarkExample/FaceMarkExample.cs</fileName>
+    <timeStamp>2023-03-05T04:56:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>51dc7e4013603904dbe3a58010859283</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ContribModules/face/FaceRecognizerExample/FaceRecognizerExample.cs</fileName>
+    <timeStamp>2023-03-05T04:57:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9f27d7e169c9c8546a6deb732042a84e</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ContribModules/plot/PlotExample/PlotExample.cs</fileName>
+    <timeStamp>2023-03-05T05:01:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1f44b79bcbf3f144f9067f3edf2d8343</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ContribModules/text/TextExample/TextDetectionExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7631d3c364ec5ce42ad4f2bf92474348</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ContribModules/text/TextExample/TextRecognitionExample.cs</fileName>
+    <timeStamp>2023-03-05T04:59:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>27c5d6dca2f8b234a9cc659ab9069590</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ContribModules/tracking/LegacyTrackingExample/LegacyTrackingExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:32-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6fdf3482e3ba80646a27464db001315d</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/ContribModules/tracking/TrackingExample/TrackingExample.cs</fileName>
+    <timeStamp>2023-03-05T04:59:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a875527031a6f6947af4dcf597a362bc</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/calib3d/StereoBMExample/StereoBMExample.cs</fileName>
+    <timeStamp>2023-03-05T05:01:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0668099b35b70794caedb1e2d0cdb997</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/core/KMeansClusteringExample/KMeansClusteringExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cbb15f6153c9bae4fb5a3db2d923cef7</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/core/PCAExample/PCAExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:36-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4731b1f30f4dcec4c83f589882a27fc1</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/ColorizationExample/ColorizationExample.cs</fileName>
+    <timeStamp>2023-03-05T04:57:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd8f74418adb2cb4f8f29ddaf598033c</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/DaSiamRPNTrackerExample/DaSiamRPNTrackerExample.cs</fileName>
+    <timeStamp>2023-03-05T05:04:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fa5662ec93d772a469bbfca28c1c1595</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/FacialExpressionRecognitionExample/FacialExpressionRecognitionExample.cs</fileName>
+    <timeStamp>2023-03-05T05:03:58-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f6a8020242de85044a01336a36bf3aa3</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/FastNeuralStyleTransferExample/FastNeuralStyleTransferExample.cs</fileName>
+    <timeStamp>2023-03-05T05:03:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f0928f5f92bb2fb42b6af377aea0d7c7</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/HandPoseEstimationExample/HandPoseEstimationExample.cs</fileName>
+    <timeStamp>2023-03-05T05:03:42-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e2f34aad6e986643ac492b83c80adca</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/HumanSegmentationExample/HumanSegmentationExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>095cc217da2253e479ac1b52bd5f0d2f</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/ImageClassificationMobilenetExample/ImageClassificationMobilenetExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:28-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cebb764f9f12aa14da079f298168edf5</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/ImageClassificationPPResnetExample/ImageClassificationPPResnetExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a775784d98b428b46b5f53426f32ed6c</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/LibFaceDetectionV3Example/LibFaceDetectionV3Example.cs</fileName>
+    <timeStamp>2023-03-05T05:01:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aa57639c3e513b04585bc0419ae09310</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/LightweightPoseEstimationExample/LightweightPoseEstimationExample.cs</fileName>
+    <timeStamp>2023-03-05T05:01:26-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0e997cf1cad53c4439938e1af495aa4b</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/LightweightPoseEstimationExample/LightweightPoseEstimationWebCamExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:34-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15970b210227fcf4594056af0c06b27b</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/NanoDetPlusObjectDetectionExample/NanoDetPlusObjectDetectionExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2abad3dee55b4e943b4299377cc993af</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/TextOCRExample/TextOCRExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:36-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6f118304890c5ec48949c74e33061e03</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/TextOCRExample/TextOCRWebCamExample.cs</fileName>
+    <timeStamp>2023-03-05T04:59:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9eaa270adf3075a4988e17056b1b9d0b</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/YOLOv4ObjectDetectionExample/YOLOv4ObjectDetectionExample.cs</fileName>
+    <timeStamp>2023-03-05T05:01:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>787ab3c637d2b4a48959e90deb767fb7</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/YOLOv7ObjectDetectionExample/YOLOv7ObjectDetectionExample.cs</fileName>
+    <timeStamp>2023-03-05T04:59:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1166d41b0bd0827429b32243e2660944</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/dnn/YOLOXObjectDetectionExample/YOLOXObjectDetectionExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1c649c10da435054e9a43a0147a8e7f8</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/features2d/Feature2DExample/Feature2DExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32950d73fd2794c4c88605f996831ac2</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/features2d/MSERExample/MSERExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9472f8fa3dfd61946814bed1046aa227</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/features2d/SimpleBlobExample/SimpleBlobExample.cs</fileName>
+    <timeStamp>2023-03-05T05:00:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1abd939d2da860a4c988b658c52bc69a</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgcodecs/ImwriteScreenCaptureExample/ImwriteScreenCaptureExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d23e0069962d8de4bbc8e459be720008</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgproc/CircleDetectionExample/CircleDetectionExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1dda685faa1aac84b98fe737a2a071fc</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgproc/ConnectedComponentsExample/ConnectedComponentsExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:06-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d3608d24bec6abb4f9a36cb999de868f</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgproc/ConvexHullExample/ConvexHullExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:48-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1c9935673a535614695fbba9de8d5204</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgproc/DrawingExample/DrawingExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>78955d0274d9e4a45a3dfff170e13f47</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgproc/GrabCutExample/GrabCutExample.cs</fileName>
+    <timeStamp>2023-03-05T04:59:52-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>18543bec397aaab4eb54c76e9cb7e252</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgproc/HoughLinesPExample/HoughLinesPExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cda3a25f9f6b56848b500eafcc592c8c</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgproc/MatchShapesExample/MatchShapesExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:38-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3e5f626413b0112449a5551aed4f3e37</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgproc/MatchTemplateExample/MatchTemplateExample.cs</fileName>
+    <timeStamp>2023-03-05T04:56:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b13d4ee60b0aa746834833127d89070</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgproc/ThresholdExample/ThresholdExample.cs</fileName>
+    <timeStamp>2023-03-05T05:01:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>afd95ae61ba67b34fa25d7d0bbc3fd41</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/imgproc/WrapPerspectiveExample/WrapPerspectiveExample.cs</fileName>
+    <timeStamp>2023-03-05T05:01:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5580216a16d028b4b9f982f85c03f2f3</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/ml/KNNExample/KNNExample.cs</fileName>
+    <timeStamp>2023-03-05T04:58:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cee6e28e45225a340b85c497a2e284f0</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/ml/SVMExample/SVMExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:40-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>545f18f478a51e244a6e96e6b8c755fe</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/ArUcoExample/ArUcoCameraCalibrationExample.cs</fileName>
+    <timeStamp>2023-03-05T04:58:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>15bdc164a9c819f4d8ca7b1921dee54f</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/ArUcoExample/ArUcoCreateMarkerExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:50-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>55c9aa4ff9e90ba4da635bfda974c34d</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/ArUcoExample/ArUcoExample.cs</fileName>
+    <timeStamp>2023-03-05T04:58:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0fcce36b20010274a9ee3088e9cbcc80</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/ArUcoExample/ArUcoWebCamExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:36-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c1fcb8ac3af42544290cfd4c25f8b9ad</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/ArUcoExample/CameraParameters.cs</fileName>
+    <timeStamp>2023-03-05T05:02:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>351b72b96154e8a4e9bdde5e27255b50</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/FaceDetectionExample/AsynchronousFaceDetectionWebCamExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>88d3d40982a843549bc06ef8d7a2ecfb</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/FaceDetectionExample/FaceDetectionExample.cs</fileName>
+    <timeStamp>2023-03-05T05:00:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4df6805535e6e864a89e6192d4d9ead7</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/FaceDetectionExample/FaceDetectionWebCamExample.cs</fileName>
+    <timeStamp>2023-03-05T04:57:36-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c3d4c13450f5e994bab3d4ce43c4f31b</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/FaceDetectorYNExample/FaceDetectorYNWebCamExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:20-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b59c38f606d195a4db91cb8f24189c48</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/FaceRecognizerSFExample/FaceRecognizerSFExample.cs</fileName>
+    <timeStamp>2023-03-05T05:01:56-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>053b4dc46c40ca94cae18d322be8bdc9</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/HOGDescriptorExample/HOGDescriptorExample.cs</fileName>
+    <timeStamp>2023-03-05T04:54:00-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>756e567b077326d45b5580d1665d3561</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/QRCodeDetectorExample/QRCodeDetectorExample.cs</fileName>
+    <timeStamp>2023-03-05T04:59:46-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1c7bfb9a23b79fb48b6c4ec37d741749</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/QRCodeDetectorExample/QRCodeDetectorWebCamExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e3a52b0b7bcc634a953524f849d191e</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/objdetect/QRCodeEncoderExample/QRCodeEncoderExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:08-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6f31fea94c831d7448bfd06b42c03bc7</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/photo/InpaintExample/InpaintExample.cs</fileName>
+    <timeStamp>2023-03-05T04:59:24-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7e1552639de7de54f97f81fc270e30db</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/photo/SeamlessCloneExample/SeamlessCloneExample.cs</fileName>
+    <timeStamp>2023-03-05T05:00:04-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6870bdf312401a5488013b15740ad3b1</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/video/CamShiftExample/CamShiftExample.cs</fileName>
+    <timeStamp>2023-03-05T04:59:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f79eeff12d9f2ae49b1a27ce7c4e76d6</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/video/KalmanFilterExample/KalmanFilterExample.cs</fileName>
+    <timeStamp>2023-03-05T05:03:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd95ab7525c293643869887f84bb4670</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/video/OpticalFlowExample/OpticalFlowExample.cs</fileName>
+    <timeStamp>2023-03-05T05:03:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>be140b1a450a4e645b7be5490db83d43</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/video/TransformECCExample/TransformECCExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:10-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>22ec320404395784788194c2d1eef88d</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/videoio/VideoCaptureCameraInputExample/VideoCaptureCameraInputExample.cs</fileName>
+    <timeStamp>2023-03-05T04:55:16-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d53fe55b037a6b04a885214de48c22cf</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/videoio/VideoCaptureExample/VideoCaptureExample.cs</fileName>
+    <timeStamp>2023-03-05T05:02:54-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>df89c0f502f5b4c41a1b9b4f5504d685</guid>
+    <fileName>Assets/OpenCVForUnity/Examples/MainModules/videoio/VideoWriterExample/VideoWriterExample.cs</fileName>
+    <timeStamp>2023-03-05T05:03:14-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d8d27c020f1865746b5abf91a35964df</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/unity/helper/ImageOptimizationHelper.cs</fileName>
+    <timeStamp>2023-03-05T05:03:02-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6dcafe15da91b8d43aaf5c62f9205835</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/unity/helper/VideoCaptureCameraInputToMatHelper.cs</fileName>
+    <timeStamp>2023-03-05T04:59:22-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d1cc502785bb1f542879d090531b53bf</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/unity/helper/VideoCaptureToMatHelper.cs</fileName>
+    <timeStamp>2023-03-05T05:02:44-07:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>df35b0c19ca97734e87299a664cea35f</guid>
+    <fileName>Assets/OpenCVForUnity/org/opencv/unity/helper/WebCamTextureToMatHelper.cs</fileName>
+    <timeStamp>2023-03-27T15:27:16-06:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>25d3c922e8cd3224a9ba25be29fc0b0c</guid>
+    <fileName>Assets/FPViewCameraController.cs</fileName>
+    <timeStamp>2023-04-04T01:21:07.6217797-06:00</timeStamp>
+    <typeFullName>
+      <string>FPViewCameraController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a5bea342629191e4a88184770fe980bb</guid>
+    <fileName>Assets/Scripts/PageScaleToFit.cs</fileName>
+    <timeStamp>2023-03-27T18:27:18-06:00</timeStamp>
+    <typeFullName>
+      <string>PageScaleToFit</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>224ad1252d05eac45bbc181215273c07</guid>
+    <fileName>Assets/Scripts/PointerPosition.cs</fileName>
+    <timeStamp>2023-04-04T00:06:33.0536936-06:00</timeStamp>
+    <typeFullName>
+      <string>PointerPosition</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>70b1402c0caf11440a523666e8825463</guid>
+    <fileName>Assets/Scripts/SpriteController.cs</fileName>
+    <timeStamp>2023-04-01T03:07:05.6623635-06:00</timeStamp>
+    <typeFullName>
+      <string>SpriteController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>

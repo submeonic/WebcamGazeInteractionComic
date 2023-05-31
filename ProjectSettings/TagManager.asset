@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pointer
+  - Duck
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 2DRaycast
+  - 3DRaycast
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2120377149
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HiddenFrames
+    uniqueID: 1366372455
+    locked: 0
+  - name: MiddleBlur
+    uniqueID: 3485991915
+    locked: 0
+  - name: DisplayedFrames
+    uniqueID: 1436702139
+    locked: 0
+  - name: LightPage
+    uniqueID: 2248712325
+    locked: 0
