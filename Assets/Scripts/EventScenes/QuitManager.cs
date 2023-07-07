@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 /*
  * @author Chase Franklin
@@ -9,6 +10,6 @@ public class QuitManager : MonoBehaviour
 {
     public void QuitGame()
     {
-        Application.Quit();
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

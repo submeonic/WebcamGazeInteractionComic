@@ -57,7 +57,7 @@ public class BeanStalk : MonoBehaviour
             if (pointer.position.y > -150 && !played)
             {
                 character.transform.position = new Vector3(lerpedX, targetY, character.transform.position.z);
-                if (character.transform.position.y > 150.0f)
+                if (character.transform.position.y > 140.0f)
                 {
                     audioMixer.SetFloat("sfxVolume", 0f);
                     musicHandler.synthSwell2.Play();

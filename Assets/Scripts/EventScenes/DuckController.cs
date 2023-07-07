@@ -11,8 +11,8 @@ public class DuckController : MonoBehaviour
     public int id;
     public Color color;
 
-    [SerializeField] private float gravityScale = 0.05f;
-    [SerializeField] private float initialGravity = 0.5f;
+    [SerializeField] private float velocityScale;
+    private Vector2 addedVelocity;
 
     private Rigidbody2D rb;
     private bool start = false;
@@ -21,6 +21,7 @@ public class DuckController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0f;
+        addedVelocity = new Vector3(0, -velocityScale);
     }
 
     private void Update()
@@ -32,28 +33,19 @@ public class DuckController : MonoBehaviour
 
         if (start)
         {
-            rb.gravityScale = initialGravity;
+            rb.gravityScale = 0.5f;
         }
     }
 
     private void OnTriggerStay2D(Collider2D collision)
     {
+        
         if (isStarted)
         {
+            
             if (collision.gameObject.tag == "Pointer")
             {
-                rb.gravityScale += gravityScale;
-            }
-        }
-    }
-
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        if (isStarted)
-        {
-            if (collision.gameObject.tag == "Pointer")
-            {
-                rb.gravityScale = initialGravity;
+                rb.velocity += addedVelocity;
             }
         }
     }

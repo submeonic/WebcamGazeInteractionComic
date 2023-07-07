@@ -1,6 +1,7 @@
 #if !OPENCV_DONT_USE_WEBCAMTEXTURE_API
 #if !(PLATFORM_LUMIN && !UNITY_EDITOR)
 
+using JetBrains.Annotations;
 using OpenCVForUnity.CoreModule;
 using OpenCVForUnity.ImgprocModule;
 using OpenCVForUnity.UtilsModule;
@@ -20,6 +21,8 @@ namespace OpenCVForUnity.UnityUtils.Helper
     /// </summary>
     public class WebCamTextureToMatHelper : MonoBehaviour
     {
+        [SerializeField] private GameObject nextButton;
+        
         /// <summary>
         /// Set the name of the camera device to use. (or device index number)
         /// </summary>
@@ -570,34 +573,70 @@ namespace OpenCVForUnity.UnityUtils.Helper
             float requestedFPS = this.requestedFPS;
 
             // Creates the camera
-            var devices = WebCamTexture.devices;
-            if (!String.IsNullOrEmpty(requestedDeviceName))
-            {
-                int requestedDeviceIndex = -1;
-                if (Int32.TryParse(requestedDeviceName, out requestedDeviceIndex))
+            //yield return Application.RequestUserAuthorization(UserAuthorization.WebCam);
+            //if (Application.HasUserAuthorization(UserAuthorization.WebCam))
+            //{
+                var devices = WebCamTexture.devices;
+                if (!String.IsNullOrEmpty(requestedDeviceName))
                 {
-                    if (requestedDeviceIndex >= 0 && requestedDeviceIndex < devices.Length)
+                    int requestedDeviceIndex = -1;
+                    if (Int32.TryParse(requestedDeviceName, out requestedDeviceIndex))
                     {
-                        webCamDevice = devices[requestedDeviceIndex];
-
-                        if (avoidAndroidFrontCameraLowLightIssue && webCamDevice.isFrontFacing == true)
-                            requestedFPS = 15f;
-
-                        if (requestedFPS < 0)
+                        if (requestedDeviceIndex >= 0 && requestedDeviceIndex < devices.Length)
                         {
-                            webCamTexture = new WebCamTexture(webCamDevice.name, requestedWidth, requestedHeight);
-                        }
-                        else
-                        {
-                            webCamTexture = new WebCamTexture(webCamDevice.name, requestedWidth, requestedHeight, (int)requestedFPS);
+                            webCamDevice = devices[requestedDeviceIndex];
+
+                            if (avoidAndroidFrontCameraLowLightIssue && webCamDevice.isFrontFacing == true)
+                                requestedFPS = 15f;
+
+                            if (requestedFPS < 0)
+                            {
+                                webCamTexture = new WebCamTexture(webCamDevice.name, requestedWidth, requestedHeight);
+                            }
+                            else
+                            {
+                                webCamTexture = new WebCamTexture(webCamDevice.name, requestedWidth, requestedHeight, (int)requestedFPS);
+                            }
                         }
                     }
+                    else
+                    {
+                        for (int cameraIndex = 0; cameraIndex < devices.Length; cameraIndex++)
+                        {
+                            if (devices[cameraIndex].name == requestedDeviceName)
+                            {
+                                webCamDevice = devices[cameraIndex];
+
+                                if (avoidAndroidFrontCameraLowLightIssue && webCamDevice.isFrontFacing == true)
+                                    requestedFPS = 15f;
+
+                                if (requestedFPS < 0)
+                                {
+                                    webCamTexture = new WebCamTexture(webCamDevice.name, requestedWidth, requestedHeight);
+                                }
+                                else
+                                {
+                                    webCamTexture = new WebCamTexture(webCamDevice.name, requestedWidth, requestedHeight, (int)requestedFPS);
+                                }
+                                break;
+                            }
+                        }
+                    }
+                    if (webCamTexture == null)
+                        Debug.Log("Cannot find camera device " + requestedDeviceName + ".");
                 }
-                else
+
+
+                if (webCamTexture == null)
                 {
+                    // Checks how many and which cameras are available on the device
                     for (int cameraIndex = 0; cameraIndex < devices.Length; cameraIndex++)
                     {
-                        if (devices[cameraIndex].name == requestedDeviceName)
+#if UNITY_2018_3_OR_NEWER
+                        if (devices[cameraIndex].kind != WebCamKind.ColorAndDepth && devices[cameraIndex].isFrontFacing == requestedIsFrontFacing)
+#else
+                    if (devices[cameraIndex].isFrontFacing == requestedIsFrontFacing)
+#endif
                         {
                             webCamDevice = devices[cameraIndex];
 
@@ -616,22 +655,12 @@ namespace OpenCVForUnity.UnityUtils.Helper
                         }
                     }
                 }
-                if (webCamTexture == null)
-                    Debug.Log("Cannot find camera device " + requestedDeviceName + ".");
-            }
 
-            if (webCamTexture == null)
-            {
-                // Checks how many and which cameras are available on the device
-                for (int cameraIndex = 0; cameraIndex < devices.Length; cameraIndex++)
+                if (webCamTexture == null)
                 {
-#if UNITY_2018_3_OR_NEWER
-                    if (devices[cameraIndex].kind != WebCamKind.ColorAndDepth && devices[cameraIndex].isFrontFacing == requestedIsFrontFacing)
-#else
-                    if (devices[cameraIndex].isFrontFacing == requestedIsFrontFacing)
-#endif
+                    if (devices.Length > 0)
                     {
-                        webCamDevice = devices[cameraIndex];
+                        webCamDevice = devices[0];
 
                         if (avoidAndroidFrontCameraLowLightIssue && webCamDevice.isFrontFacing == true)
                             requestedFPS = 15f;
@@ -644,44 +673,24 @@ namespace OpenCVForUnity.UnityUtils.Helper
                         {
                             webCamTexture = new WebCamTexture(webCamDevice.name, requestedWidth, requestedHeight, (int)requestedFPS);
                         }
-                        break;
-                    }
-                }
-            }
-
-            if (webCamTexture == null)
-            {
-                if (devices.Length > 0)
-                {
-                    webCamDevice = devices[0];
-
-                    if (avoidAndroidFrontCameraLowLightIssue && webCamDevice.isFrontFacing == true)
-                        requestedFPS = 15f;
-
-                    if (requestedFPS < 0)
-                    {
-                        webCamTexture = new WebCamTexture(webCamDevice.name, requestedWidth, requestedHeight);
                     }
                     else
                     {
-                        webCamTexture = new WebCamTexture(webCamDevice.name, requestedWidth, requestedHeight, (int)requestedFPS);
+                        isInitWaiting = false;
+                        initCoroutine = null;
+
+                        if (onErrorOccurred != null)
+                            onErrorOccurred.Invoke(ErrorCode.CAMERA_DEVICE_NOT_EXIST);
+
+                        yield break;
                     }
                 }
-                else
-                {
-                    isInitWaiting = false;
-                    initCoroutine = null;
-
-                    if (onErrorOccurred != null)
-                        onErrorOccurred.Invoke(ErrorCode.CAMERA_DEVICE_NOT_EXIST);
-
-                    yield break;
-                }
-            }
+            //////}
 
             // Starts the camera
             webCamTexture.Play();
-
+            nextButton.SetActive(true);
+            
             int initFrameCount = 0;
             bool isTimeout = false;
 
@@ -770,7 +779,7 @@ namespace OpenCVForUnity.UnityUtils.Helper
             UserAuthorization mode = UserAuthorization.WebCam;
             if (!Application.HasUserAuthorization(mode))
             {
-                yield return RequestUserAuthorization(mode);
+                yield return Application.RequestUserAuthorization(UserAuthorization.WebCam);
             }
             yield return Application.HasUserAuthorization(mode);
 #elif UNITY_ANDROID && UNITY_2018_3_OR_NEWER
@@ -793,7 +802,7 @@ namespace OpenCVForUnity.UnityUtils.Helper
         protected virtual IEnumerator RequestUserAuthorization(UserAuthorization mode)
         {
             isUserRequestingPermission = true;
-            yield return Application.RequestUserAuthorization(mode);
+            yield return Application.RequestUserAuthorization(UserAuthorization.WebCam);
 
             float timeElapsed = 0;
             while (isUserRequestingPermission)

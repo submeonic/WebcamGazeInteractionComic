@@ -22,7 +22,7 @@ public class EnvironmentMove : MonoBehaviour
     }
     private void OnEnable()
     {
-        Invoke("Moving", 3.0f);
+        Invoke("Moving", 5.0f);
     }
     private void OnDisable()
     {
