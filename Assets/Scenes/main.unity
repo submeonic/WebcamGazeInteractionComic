@@ -3806,8 +3806,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "this is the universe world championship! \nI'm so happy you are here to
-    witness it!"
+  m_Text: "this is the universal championship! \nI'm so happy you are here to witness
+    it!"
 --- !u!222 &135918769
 CanvasRenderer:
   m_ObjectHideFlags: 0
